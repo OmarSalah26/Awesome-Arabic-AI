@@ -24,8 +24,8 @@ Our mission is to foster a community where state-of-the-art speech and language 
 
 The latest and most significant breakthroughs in the Arabic AI space:
 
-- 🗣️ **[Arabic-F5-TTS-v2](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2)**: Cutting-edge F5-diffusion-based TTS for natural Arabic prosody with diacritic support.
 - 🗣️ **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: A specialized model built on the Chatterbox architecture, fine-tuned specifically for **Egyptian Arabic (Masri)**.
+- 🗣️ **[Arabic-F5-TTS-v2](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2)**: Cutting-edge F5-diffusion-based TTS for natural Arabic prosody with diacritic support.
 - 📊 **[Silma Open-Source Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)**: A foundational benchmark prioritizing direct auditory assessment over standard metrics to capture the nuances of Arabic speech.
 
 ---
