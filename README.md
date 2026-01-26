@@ -22,8 +22,10 @@ Our mission is to foster a community where state-of-the-art speech and language 
 
 ## 🔥 New & Trending
 The latest and most significant breakthroughs in the Arabic AI space:
-
+- 🗣️  **[chatterbox-egyptian-v0](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: Chatterbox Egyptian Arabic (Masri) TTS is a Text-to-Speech model built on top of the Chatterbox Multilingual TTS architecture and configured to generate Egyptian Arabic (Masri) speech.
 - 🗣️ **[Arabic-F5-TTS-v2 (Ibrahim Salah)](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2)**: Cutting-edge diffusion-based TTS for natural Arabic prosody.
+- ### Leaderboard
+- **[]
 
 ---
 
@@ -98,6 +100,8 @@ The latest and most significant breakthroughs in the Arabic AI space:
 - **[Habibi Dataset](https://huggingface.co/datasets/SWivid/Habibi)**: Critical resource for Arabic TTS.
 - **[OALL (Open Arabic LLM Leaderboard)](https://huggingface.co/spaces/TIIUAE/open-arabic-llm-leaderboard)**: The standard for LLM evaluation.
 - **[SAFIR Leaderboard](https://huggingface.co/namaa-space)**: Multi-dialectal evaluation for Saudi Arabic.
+- **[Open-source Arabic TTS Benchmark Leaderboard (silma-ai)](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark )**: SILMA.AI's foundational open-source Arabic TTS benchmark 
+
 
 ---
 
