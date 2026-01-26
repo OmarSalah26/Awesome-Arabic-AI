@@ -31,14 +31,14 @@ The latest and most significant breakthroughs in the Arabic AI space:
 
 ## 🗺️ Table of Contents
 
-- [🧪 Research Labs (NAMAA Space)](#-research-labs-namaa-space)
-- [🗣️ Text-to-Speech (TTS)](#️-text-to-speech-tts)
-- [🧠 Large Language Models (LLMs)](#-large-language-models-llms)
-- [🇸🇦 Community & Dialectal Hubs](#-community--dialectal-hubs)
-- [📊 Datasets & Benchmarks](#-datasets--benchmarks)
+- [Research Labs (NAMAA Space)](#-research-labs-namaa-space)
+- [Text-to-Speech (TTS)](#️-text-to-speech-tts)
+- [Large Language Models (LLMs)](#-large-language-models-llms)
+- [Community & Dialectal Hubs](#-community--dialectal-hubs)
+- [Datasets & Benchmarks](#-datasets--benchmarks)
 - [⚖️ Model Comparison Table](#-model-comparison-table)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
@@ -86,7 +86,7 @@ The latest and most significant breakthroughs in the Arabic AI space:
 
 ---
 
-## 🇸� Community & Dialectal Hubs
+## Community & Dialectal Hubs
 
 - **Saudi Dialect Hub**: A unified hub by NAMAA for Saudi datasets and the **SAFIR Leaderboard**.
 - **Shami-MT**: Syrian dialect translation systems by Omartificial Intelligence Space.
@@ -95,7 +95,7 @@ The latest and most significant breakthroughs in the Arabic AI space:
 
 ---
 
-## � Datasets & Benchmarks
+## Datasets & Benchmarks
 
 - **[Habibi Dataset](https://huggingface.co/datasets/SWivid/Habibi)**: Critical resource for Arabic TTS.
 - **[OALL (Open Arabic LLM Leaderboard)](https://huggingface.co/spaces/TIIUAE/open-arabic-llm-leaderboard)**: The standard for LLM evaluation.
@@ -123,11 +123,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
----
-
-## ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=omarsalah/Awesome-Arabic-AI&type=Date)](https://star-history.com/#omarsalah/Awesome-Arabic-AI&Date)
 
 ---
 
