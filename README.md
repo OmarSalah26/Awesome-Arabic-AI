@@ -23,9 +23,7 @@ Our mission is to foster a community where state-of-the-art speech and language 
 ## 🔥 New & Trending
 The latest and most significant breakthroughs in the Arabic AI space:
 
-- 🧠 **[AraModernBert (NAMAA)](https://huggingface.co/NAMAA-Space/AraModernBert-Base-V1.0)**: State-of-the-art Arabic ModernBERT, optimized for high performance and efficiency.
 - 🗣️ **[Arabic-F5-TTS-v2 (Ibrahim Salah)](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2)**: Cutting-edge diffusion-based TTS for natural Arabic prosody.
-- 👁️ **[Qari-OCR v0.3 (NAMAA)](https://huggingface.co/NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct)**: High-fidelity vision model for complex Arabic documents.
 
 ---
 
