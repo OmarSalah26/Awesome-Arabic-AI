@@ -44,32 +44,20 @@ The latest and most significant breakthroughs in the Arabic AI space:
 
 ---
 
-## 🔬 Research Spotlight: NAMAA Space
-
-A dedicated section for the **[NAMAA Community](https://www.namaa.space/research)** ecosystem, a leading network for advancing Modern Arabic NLP.
-
-| Model / Project | Type | Description | Link |
-| :--- | :--- | :--- | :--- |
-| **AraModernBERT** | LLM (Encoder) | SOTA Arabic ModernBERT (Base V1.0), optimized for 8K context length. | [HuggingFace](https://huggingface.co/NAMAA-Space/AraModernBert-Base-V1.0) |
-| **Qari-OCR v0.3** | Vision/OCR | High-fidelity Arabic OCR (Qwen2-VL based), supports full diacritics. | [HuggingFace](https://huggingface.co/NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct) |
-| **NAMAA-MT-Saudi** | Translation | Transformer-based Saudi Dialect (Najdi, Hijazi) to English translation. | [HuggingFace](https://huggingface.co/NAMAA-Space/NAMAA-MT-Saudi2English) |
-| **Namaa-Reranker** | RAG Tool | High-performance reranker fine-tuned on mMARCO for Arabic IR. | [HuggingFace](https://huggingface.co/NAMAA-Space/Namaa-Reranker-v1) |
-
----
-
-## 🗣️ Text-to-Speech (TTS)
+## 🎙️ Arabic TTS Excellence
 
 These models represent the cutting edge of open-source Arabic speech synthesis.
 
-| Model Name | Developer | Links | Key Features |
+| Model Name | Developer/Author | Links | Notes |
 | :--- | :--- | :--- | :--- |
-| **Arabic-F5-TTS-v2** | Ibrahim Salah | [Model](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) | Advanced F5-based TTS, supports diacritics. |
-| **Arabic-TTS-Spark** | Ibrahim Salah | [Space](https://huggingface.co/spaces/IbrahimSalah/Arabic-TTS-Spark) | Lightweight Spark-based synthesis. |
-| **Hamsa** | Silma AI | [Org](https://huggingface.co/silma-ai) | Full-stack Arabic speech suite (High-end MSA). |
-| **XTTS-v2 (Arabic)** | Coqui/Community | [Link](https://huggingface.co/lucasnewman/xtts-v2-arabic) | Multi-lingual support with Arabic fine-tuning. |
-| **Habibi-TTS** | SWivid | [Dataset](https://huggingface.co/datasets/SWivid/Habibi) | High-quality single-speaker dataset & model. |
+| **Arabic-F5-TTS-v2** | Ibrahim Salah | [Model](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) | Advanced F5-based Arabic TTS |
+| **Arabic-TTS-Spark** | Ibrahim Salah | [Space](https://huggingface.co/spaces/IbrahimSalah/Arabic-TTS-Spark) | Spark-based Arabic synthesis |
+| **Chatterbox-Egyptian** | oddadmix | [Model](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) / [Demo](https://huggingface.co/spaces/oddadmix/Chatterbox-Egyptian) | Focus on Egyptian Dialect |
+| **Habibi-TTS** | SWivid | [Model/Dataset](https://huggingface.co/datasets/SWivid/Habibi) | High-quality Arabic speech dataset & model |
+| **Hamsa** | Silma AI | [Org](https://huggingface.co/silma-ai) | High-end Arabic TTS |
+| **XTTS-v2 (Arabic)** | Coqui/Community | [Link](https://huggingface.co/lucasnewman/xtts-v2-arabic) | Multi-lingual support with Arabic fine-tuning |
 
----
+
 
 ## 🎙️ Speech-to-Text (STT)
 
