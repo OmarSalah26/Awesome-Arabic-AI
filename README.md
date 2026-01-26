@@ -41,19 +41,6 @@ The latest and most significant breakthroughs in the Arabic AI space:
 
 ---
 
-## 🧪 Research Labs: NAMAA Space Ecosystem
-*Network for Advancing Modern ArabicNLP & AI*
-
-| Model / Project | Type | Description | Link |
-| :--- | :--- | :--- | :--- |
-| **AraModernBERT** | LLM (Encoder) | SOTA Arabic ModernBERT (Base V1.0), optimized for 8K context length. | [HuggingFace](https://huggingface.co/NAMAA-Space/AraModernBert-Base-V1.0) |
-| **Qari-OCR v0.3** | Vision/OCR | High-fidelity Arabic OCR based on Qwen2-VL, supports diacritics & complex layouts. | [HuggingFace](https://huggingface.co/NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct) |
-| **Jasmine** | LLM | Arabic GPT models optimized for few-shot learning (300M - 6.7B parameters). | [HuggingFace](https://huggingface.co/UBC-NLP/Jasmine-350M) |
-| **NAMAA-MT-Saudi** | Translation | Saudi Dialect (Najdi, Hijazi) to English translation system. | [HuggingFace](https://huggingface.co/NAMAA-Space/NAMAA-MT-Saudi2English) |
-| **Bojji / Zarra** | Embeddings | Ultra-lightweight static embedding models (Model2Vec) for fast CPU inference. | [Bojji](https://huggingface.co/NAMAA-Space/bojji) / [Zarra](https://huggingface.co/NAMAA-Space/zarra) |
-| **Namaa-Reranker** | RAG Tool | High-performance reranker fine-tuned on mMARCO for Arabic IR. | [HuggingFace](https://huggingface.co/NAMAA-Space/Namaa-Reranker-v1) |
-
----
 
 ## 🗣️ Text-to-Speech (TTS) & Audio
 *Top-tier open-source synthesis models.*
