@@ -39,7 +39,7 @@ The latest and most significant breakthroughs in the Arabic AI space:
 - [📊 Datasets & Benchmarks](#-datasets--benchmarks)
 - [⚖️ Model Comparison Table](#-model-comparison-table)
 - [👥 Key Researchers](#-key-researchers--organizations)
-- [Contributing](#-contributing)
+- [🤝Contributing](#-contributing)
 
 ---
 
