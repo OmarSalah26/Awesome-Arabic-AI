@@ -2,159 +2,124 @@
 
 <div align="center">
   <img src="assets/logo.png" alt="Awesome Arabic AI Logo" width="200" height="200">
-  <p><b>A Comprehensive Hub for Open-Source Arabic Speech and Language Technologies</b></p>
+  <p><b>Centralizing Advancements in Arabic Large Language Models (LLM), Text-to-Speech (TTS), and Speech-to-Text (STT)</b></p>
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-  [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-  [![Maintainer](https://img.shields.io/badge/Maintainer-Open--Source%20AI%20Researcher-orange.svg)](https://github.com/omarsalah)
 </div>
 
 ---
 
 ## 📖 Introduction
 
-**Awesome-Arabic-AI** is the definitive hub for open-source advancements in Arabic Large Language Models (LLMs), Text-to-Speech (TTS), and Speech-to-Text (STT) technologies. Arabic, spoken by over 400 million people, presents unique computational challenges—from its complex morphology and lack of diacritics to the profound state of diglossia (MSA vs. Dialects). 
-
-This repository synthesizes current research, institutional leadership, and state-of-the-art model benchmarks to provide a strategic foundation for researchers and developers navigating the burgeoning Arabic AI ecosystem.
+**Awesome-Arabic-AI** is a curated list of high-quality Arabic AI resources. Our mission is to centralize the most significant advancements in Arabic NLP and Speech technologies, providing a strategic foundation for researchers and developers.
 
 ---
 
 ## 🗺️ Table of Contents
 
+- [Arabic TTS Excellence](#-arabic-tts-excellence)
+- [Dialectal AI (Egyptian Arabic)](#-dialectal-ai-egyptian-arabic)
+- [Datasets](#-datasets)
+- [Model Comparison Table](#-model-comparison-table)
 - [Large Language Models (LLMs)](#-large-language-models-llms)
-- [Speech Technologies](#-speech-technologies)
-  - [Speech-to-Text (STT/ASR)](#speech-to-text-sttasr)
-  - [Text-to-Speech (TTS)](#text-to-speech-tts)
-  - [Diacritization (Tashkeel)](#diacritization-tashkeel)
-- [Data and Evaluation](#-data-and-evaluation)
-  - [Corpora](#corpora)
-  - [Leaderboards & Benchmarks](#leaderboards--benchmarks)
-- [Tools and Libraries](#-tools-and-libraries)
-- [Institutional Leadership](#-institutional-leadership)
+- [Speech-to-Text (STT)](#-speech-to-text-stt)
+- [Key Researchers & Organizations](#-key-researchers--organizations)
 - [Contributing](#-contributing)
 - [License](#-license)
 
 ---
 
+## 🎙️ Arabic TTS Excellence
+
+These models represent the cutting edge of open-source Arabic speech synthesis.
+
+| Model Name | Developer/Author | Links | Notes |
+| :--- | :--- | :--- | :--- |
+| **Arabic-F5-TTS-v2** | Ibrahim Salah | [Model](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) | Advanced F5-based Arabic TTS |
+| **Arabic-TTS-Spark** | Ibrahim Salah | [Space](https://huggingface.co/spaces/IbrahimSalah/Arabic-TTS-Spark) | Spark-based Arabic synthesis |
+| **Chatterbox-Egyptian** | oddadmix | [Model](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) / [Demo](https://huggingface.co/spaces/oddadmix/Chatterbox-Egyptian) | Focus on Egyptian Dialect |
+| **Habibi-TTS** | SWivid | [Model/Dataset](https://huggingface.co/datasets/SWivid/Habibi) | High-quality Arabic speech dataset & model |
+| **Hamsa** | Silma AI | [Org](https://huggingface.co/silma-ai) | High-end Arabic TTS |
+| **XTTS-v2 (Arabic)** | Coqui/Community | [Link](https://huggingface.co/lucasnewman/xtts-v2-arabic) | Multi-lingual support with Arabic fine-tuning |
+
+### Benchmarks & Evaluation
+*   **Primary Arabic TTS Benchmark:** [Silma Open Source Arabic TTS Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)
+*   **Comparison Targets:** ElevenLabs, Google Gemini TTS, Google Chirp 3, Amazon Polly, OpenAI TTS Mini.
+
+---
+
+## 🇪🇬 Dialectal AI (Egyptian Arabic)
+
+Specialized resources focusing on the unique challenges of the Egyptian dialect.
+
+- **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: A state-of-the-art model designed specifically for Egyptian dialect synthesis.
+- **[EGTTS-v0.1](https://huggingface.co/models?search=EGTTS)**: Community effort for Egyptian dialect speech.
+
+---
+
+## 📊 Datasets
+
+Critical resources for training and fine-tuning Arabic models.
+
+- **[Habibi Dataset](https://huggingface.co/datasets/SWivid/Habibi)**: A high-quality Arabic speech dataset, essential for developing natural-sounding TTS systems.
+- **[Common Voice (Arabic)](https://commonvoice.mozilla.org/ar)**: Community-driven speech dataset.
+
+---
+
+## ⚖️ Model Comparison Table
+
+Comparing leading open-source models against proprietary industry standards.
+
+| Feature | Hamsa (Silma AI) | Arabic-F5 v2 | Chatterbox-EG | ElevenLabs | Google Gemini TTS |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Type** | Open-Source | Open-Source | Open-Source | Proprietary | Proprietary |
+| **Focus** | High-end MSA | Performance/Prosody | Egyptian Dialect | Global Standard | High Integration |
+| **Latency** | Low (Optimized) | Moderate | Moderate | Variable (API) | Low (API) |
+| **Access** | Downloadable | Downloadable | Downloadable | API-Only | API-Only |
+
+---
+
 ## 🧠 Large Language Models (LLMs)
 
-Arabic LLMs have evolved from encoder-based architectures (AraBERT) to massive generative models (Jais, Falcon) and efficient Mixture-of-Experts (MoE) frameworks.
+### Featured Arabic-Centric Models
+- **[Falcon-H1-Arabic (3B, 7B, 34B)](https://huggingface.co/tiiuae)**: Latest models from TII with hybrid Mamba-Transformer architecture for superior Arabic performance (Jan 2026).
+- **[Jais (G42)](https://huggingface.co/inceptionai/jais-30b-chat)**: Arabic-centric foundational model.
+- **[Falcon 3 (TII)](https://huggingface.co/tiiuae/falcon-3-7b)**: High-performance multilingual models.
+- **[Allam (KSAA)](https://huggingface.co/KSAA)**: Saudi sovereign model.
 
-### 🏆 Featured Models
-
-| Model Family | Developer | Architecture | Parameter Sizes | License | Primary Focus |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **AraBERT** | AUB-MIND | Encoder (BERT) | 110M - 340M | Apache 2.0 | NLU, Sentiment Analysis |
-| **Jais** | Inception (G42) | Decoder-only | 13B, 30B, 70B | Apache 2.0 | Arabic-centric foundational knowledge |
-| **AceGPT-v2** | KAUST / CUHKSZ | Llama 3 Based | 8B, 32B, 70B | Llama 3 | Instruction-following, Dialogue |
-| **Qwen3** | Alibaba | MoE | 8B - 235B | Apache 2.0 | Multilingual reasoning, MoE efficiency |
-| **Falcon 3** | TII | Decoder-only | 1B, 3B, 7B, 10B | Apache 2.0 | High-performance small models |
-| **SILMA** | Silma AI | Gemma Based | 9B | Gemma | Optimized for RAG and Arabic speed |
-| **Allam** | KSAA | Decoder-only | 7B | Apache 2.0 | Saudi sovereign model |
-| **Fanar-1** | QCRI | Decoder-only | 9B | Apache 2.0 | Qatar sovereign model |
-
-> **Key Insight:** Specialized tokenizers are critical for Arabic. Models like Jais and AceGPT utilize custom tokenizers to minimize the "fertility score" (tokens per word), improving efficiency and syntactic grasp.
+### Llama-3-Arabic Variants
+- **[Arabic-llama3.1-16bit-FT](https://huggingface.co/Omartificial-Intelligence-Space/Arabic-llama3.1-16bit-FT)**: Fine-tuned on BigScience xP3.
+- **[HeshamHaroon/Arabic-llama3](https://huggingface.co/HeshamHaroon/Arabic-llama3)**: Fine-tuned from Meta Llama 3.
+- **[arazn-llama3-arabic-gguf](https://huggingface.co/ahmedheakl/arazn-llama3-arabic-gguf)**: Quantized version for edge deployment.
 
 ---
 
-## 🎙️ Speech Technologies
+## 🎙️ Speech-to-Text (STT)
 
-### Speech-to-Text (STT/ASR)
-
-Arabic ASR must bridge the gap between Phonetic MSA and diversas spoken dialects.
-
-| Model / System | Architecture | Params | VRAM Req. | Primary Use Case |
-| :--- | :--- | :--- | :--- | :--- |
-| **Munsit (NADI 2025)** | Conformer-Large | 121M | High | Multidialectal ASR leader |
-| **Whisper Large V3** | Transformer Enc-Dec | 1.55B | ~10GB | Global multilingual standard |
-| **Whisper V3 Turbo** | Transformer Enc-Dec | 809M | ~6GB | High-speed throughput |
-| **ArTST v2** | Unified Transformer | Base | Moderate | Dialect-specific recognition |
-| **MMS** | Wav2Vec2 | 1B | Moderate | Support for 1,100+ languages |
-| **Granite Speech 3.3** | Encoder-only | 8B | High | Enterprise-grade translation |
-
-### Text-to-Speech (TTS)
-
-High-quality Arabic TTS requires a robust pipeline: `Text -> Diacritizer -> Mel-Spectrogram -> Vocoder`.
-
-- **[tts_arabic](https://github.com/pndurette/tts-arabic)**: Offline solution using FastPitch ($46.3M$ params) and Mixer-TTS ($1.5M-2.9M$ params).
-- **F5-TTS**: Diffusion-based synthesis for natural prosody.
-
-### Diacritization (Tashkeel)
-
-The prerequisite for natural-sounding speech and accurate NLU.
-
-| Model Name | Architecture | Key Metrics | Notes |
-| :--- | :--- | :--- | :--- |
-| **Sadeed** | SLM Decoder-only | Competitive with LLMs | Fine-tuned on noise-free text |
-| **CATT** | Char-Transformer | ED/EO model options | Official diacritization toolkit |
-| **Shakkala** | Bi-LSTM | DER: 1.69% | State-of-the-art accuracy |
-| **Hareef / Sarf** | Deep GRU + Transf. | Standardized metrics | Supports ONNX export |
+### Foundational & Fine-tuned Models
+- **[ArTST v2](https://huggingface.co/MBZUAI/ArTST)**: Unified Transformer for Arabic text and speech, supporting 17 dialects.
+- **[Whisper Large V3 Turbo (Arabic)](https://huggingface.co/mboushaba/whisper-large-v3-turbo-arabic)**: High-speed throughput fine-tuned for Arabic.
+- **[Whisper-Large-V2-Arabic-5k](https://huggingface.co/clu-ling/whisper-large-v2-arabic-5k-steps)**: High accuracy on Common Voice.
+- **[Whisper-Medium-Egyptian](https://huggingface.co/MAdel121/whisper-medium-egy)**: Specialized for Egyptian Arabic dialect.
 
 ---
 
-## 📊 Data and Evaluation
+## 👥 Key Researchers & Organizations
 
-### Corpora
-
-- **ArabicWeb16**: 150M web pages covering major regional dialects.
-- **OSCAR**: Massive multilingual corpus from Common Crawl.
-- **1.5 Billion Words Corpus**: Formal text from news sources across 10 countries.
-- **Shami Corpus**: 117k+ sentences for Levantine dialect adaptation.
-- **Common Voice (Arabic)**: Community-driven speech dataset.
-
-### Leaderboards & Benchmarks
-
-| Benchmark | Focus Area | Main Metrics |
-| :--- | :--- | :--- |
-| **[OALL](https://huggingface.co/spaces/TIIUAE/open-arabic-llm-leaderboard)** | General NLP & RAG | MMLU, Grammar, Trust |
-| **[ArabicMMLU](https://github.com/mbzuai-nlp/arabic-mmlu)** | Native School Exams | 14,575 Native MCQs |
-| **[ArabLegalEval](https://huggingface.co/datasets/KSAA/ArabLegalEval)** | Legal Knowledge | Multitask Saudi-based Law |
-| **[AraTrust / AraSafe](https://huggingface.co/datasets/KSAA/AraTrust)** | Safety | Red-teaming & Hallucination |
-| **NADI Shared Tasks** | Dialects | Accuracy, WER, CER |
-
----
-
-## 🛠️ Tools and Libraries
-
-- **[Camel-tools](https://github.com/CAMeL-Lab/camel_tools)**: Suite of Arabic NLP tools (morphology, NER, sentiment).
-- **[PyArabic](https://github.com/linuxscout/pyarabic)**: Library for Arabic text manipulation.
-- **[Farasa](https://farasa.qcri.org/)**: High-speed segmenter and POS tagger.
-- **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)**: Now supporting many Arabic-specific tasks.
-
----
-
-## 🚀 Demos and Interactive Notebooks
-
-Experience Arabic AI in action:
-
-- **[Jais-30B Chat Demo](https://huggingface.co/spaces/inceptionai/jais-30b-chat)**: Interactive chat with the leading Arabic-centric model.
-- **[OALL Leaderboard](https://huggingface.co/spaces/TIIUAE/open-arabic-llm-leaderboard)**: Real-time rankings of the latest open-weight models.
-- **[Whisper Arabic ASR Notebook](https://github.com/openai/whisper)**: Guide on fine-tuning Whisper for regional dialects.
-
----
-
-## 🏛️ Institutional Leadership
-
-Leading the charge in Arabic AI:
-
-- **Technology Innovation Institute (TII), UAE**: Sponsors of Falcon and OALL.
-- **MBZUAI, UAE**: Leaders in Aram Lab, ArTST, and ArabicMMLU.
-- **KSAA, Saudi Arabia**: Operates the ARAI Center for linguistic tools.
-- **G42 / Core42, UAE**: Developers of the Jais foundation models.
-- **QCRI, Qatar**: Pioneers in speech processing and Fanar models.
+- **[Ibrahim Salah](https://huggingface.co/IbrahimSalah)**: Specialist in F5 and Spark TTS.
+- **[oddadmix](https://huggingface.co/oddadmix)**: Focus on Dialectal/Egyptian AI.
+- **[SWivid](https://huggingface.co/SWivid)**: Creators of the Habibi dataset.
+- **[Silma AI](https://huggingface.co/silma-ai)**: Leading Arabic Benchmarks and high-end models.
+- **[TII (Technology Innovation Institute)](https://huggingface.co/tiiuae)**: Developers of Falcon and primary Arabic leaderboards.
+- **[MBZUAI](https://huggingface.co/MBZUAI)**: Leaders in ArTST and ArabicMMLU.
 
 ---
 
 ## 🤝 Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-1. Fork the Repo.
-2. Create your Feature Branch.
-3. Commit your Changes.
-4. Push to the Branch.
-5. Open a Pull Request.
 
 ---
 
@@ -163,21 +128,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
 ---
-
-## ✍️ Citation
-
-If you use this repository in your research, please cite:
-
-```bibtex
-@misc{awesome-arabic-ai,
-  author = {Awesome Arabic AI Community},
-  title = {Awesome-Arabic-AI: A Hub for Open-Source Arabic Speech and Language Technologies},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/omarsalah/Awesome-Arabic-AI}}
-}
-```
 
 <div align="center">
   <sub>Built with ❤️ for the Arabic AI Community.</sub>
