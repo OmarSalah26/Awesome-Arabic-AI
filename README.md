@@ -110,18 +110,7 @@ Arabic is not just MSA. This section collects resources for specific regional di
 
 ---
 
-## ⚖️ Model Comparison Table
 
-Comparing leading open-source models against proprietary industry standards.
-
-| Feature | Hamsa (Silma AI) | Arabic-F5 v2 | Chatterbox-EG | ElevenLabs | Google Gemini TTS |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Type** | Open-Source | Open-Source | Open-Source | Proprietary | Proprietary |
-| **Focus** | High-end MSA | Performance/Prosody | Egyptian Dialect | Global Standard | High Integration |
-| **Latency** | Low (Optimized) | Moderate | Moderate | Variable (API) | Low (API) |
-| **Access** | Downloadable | Downloadable | Downloadable | API-Only | API-Only |
-
----
 
 ## 👥 Key Researchers & Organizations
 
