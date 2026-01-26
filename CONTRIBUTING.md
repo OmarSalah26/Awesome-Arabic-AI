@@ -16,8 +16,6 @@ All submissions must be directly relevant to Arabic Large Language Models (LLMs)
   - Parameter Size (if applicable)
   - License Type
   - Direct Link (GitHub or Hugging Face)
-- **Formatting**: Do NOT use **bold** or *italics* in your descriptions unless they are part of a link or established nomenclature.
-- **Alphabetical Order**: Within each category, please list items in alphabetical order unless there is a clear performance ranking.
 
 ### 3. Submission Protocol
 1. **Fork** the repository and create your branch from `main`.
