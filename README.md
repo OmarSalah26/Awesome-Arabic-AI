@@ -94,12 +94,10 @@ Arabic is not just MSA. This section collects resources for specific regional di
 - **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: State-of-the-art synthesis for Egyptian colloquialisms.
 - **[EGTTS-v0.1](https://huggingface.co/models?search=EGTTS)**: Community effort for Egyptian dialect speech.
 
-### 🇸🇦 Saudi & Gulf
+### 🇸🇦 Saudi
 - **[Saudi Dialect Hub (NAMAA)](https://huggingface.co/namaa-space)**: A unified hub for Saudi datasets and the SAFIR Leaderboard.
 - **[NAMAA-MT-Saudi](https://huggingface.co/NAMAA-Space/NAMAA-MT-Saudi2English)**: Translation systems for Najdi and Hijazi.
 
-### 🇱🇧 Levantine (Shami)
-- **[Shami-MT](https://huggingface.co/Omartificial-Intelligence-Space)**: Syrian/Levantine dialect translation systems.
 
 ---
 
