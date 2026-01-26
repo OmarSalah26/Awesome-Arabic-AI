@@ -78,7 +78,7 @@ These models represent the cutting edge of open-source Arabic speech synthesis.
 - **[Falcon-H1-Arabic (3B, 7B, 34B)](https://huggingface.co/tiiuae)**: Latest models from TII with hybrid Mamba-Transformer architecture for superior Arabic performance (Jan 2026).
 - **[Jais (G42)](https://huggingface.co/inceptionai/jais-30b-chat)**: The leading Arabic-centric foundational model.
 - **[Falcon 3 (TII)](https://huggingface.co/tiiuae/falcon-3-7b)**: High-performance multilingual models.
-- **[Allam (KSAA)](https://huggingface.co/KSAA)**: Saudi sovereign model.
+- **[Allam (KSAA)](https://huggingface.co/KSAA)**: Saudi  model.
 
 ### Llama-3-Arabic Variants
 - **[Arabic-llama3.1-16bit-FT](https://huggingface.co/Omartificial-Intelligence-Space/Arabic-llama3.1-16bit-FT)**: Fine-tuned on BigScience xP3.
