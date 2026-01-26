@@ -90,6 +90,7 @@ Comparing leading open-source models against proprietary industry standards.
 ## 🧠 Large Language Models (LLMs)
 
 ### Featured Arabic-Centric Models
+- **[AraModernBert (NAMAA)](https://huggingface.co/namaa-space/AraModernBert-Base-V1.0)**: Advanced Arabic language model based on ModernBERT architecture (Dec 2024).
 - **[Falcon-H1-Arabic (3B, 7B, 34B)](https://huggingface.co/tiiuae)**: Latest models from TII with hybrid Mamba-Transformer architecture for superior Arabic performance (Jan 2026).
 - **[Jais (G42)](https://huggingface.co/inceptionai/jais-30b-chat)**: Arabic-centric foundational model.
 - **[Falcon 3 (TII)](https://huggingface.co/tiiuae/falcon-3-7b)**: High-performance multilingual models.
@@ -114,6 +115,7 @@ Comparing leading open-source models against proprietary industry standards.
 
 ## 👥 Key Researchers & Organizations
 
+- **[NAMAA Community](https://huggingface.co/namaa-space)**: Leading open-source collective for Arabic NLP, creators of `AraModernBert` and dialect-specific translation models.
 - **[Ibrahim Salah](https://huggingface.co/IbrahimSalah)**: Specialist in F5 and Spark TTS.
 - **[oddadmix](https://huggingface.co/oddadmix)**: Focus on Dialectal/Egyptian AI.
 - **[SWivid](https://huggingface.co/SWivid)**: Creators of the Habibi dataset.
