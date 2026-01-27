@@ -57,6 +57,7 @@ The latest and most significant breakthroughs in the Arabic AI space:
 | **Qari-OCR v0.3** | Vision/OCR | High-fidelity Arabic OCR based on Qwen2-VL, supports diacritics & complex layouts. | [HuggingFace](https://huggingface.co/NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct) |
 | **NAMAA-MT-Saudi** | Translation | Saudi Dialect (Najdi, Hijazi) to English translation system. | [HuggingFace](https://huggingface.co/NAMAA-Space/NAMAA-MT-Saudi2English) |
 | **Namaa-Reranker** | RAG Tool | High-performance reranker fine-tuned on mMARCO for Arabic IR. | [HuggingFace](https://huggingface.co/NAMAA-Space/Namaa-Reranker-v1) |
+| **SaudiSpell-AraT5** | Spelling Correction | SOTA sequence-to-sequence spelling correction for Saudi dialects (Najdi, Hijazi) and MSA. | [HuggingFace](https://huggingface.co/NAMAA-Space/SaudiSpell-AraT5) |
 
 
 ## 🎙️ Arabic TTS Excellence
@@ -119,6 +120,7 @@ Arabic is not just MSA. This section collects resources for specific regional di
 ### 🇸🇦 Saudi
 - **[Saudi Dialect Hub (NAMAA)](https://huggingface.co/namaa-space)**: A unified hub for Saudi datasets and the SAFIR Leaderboard.
 - **[NAMAA-MT-Saudi](https://huggingface.co/NAMAA-Space/NAMAA-MT-Saudi2English)**: Translation systems for Najdi and Hijazi.
+- **[SaudiSpell-AraT5](https://huggingface.co/NAMAA-Space/SaudiSpell-AraT5)**: SOTA sequence-to-sequence spelling correction for Saudi dialects.
 
 
 ---
