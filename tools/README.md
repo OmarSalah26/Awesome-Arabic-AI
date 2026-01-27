@@ -7,6 +7,7 @@ This repository lists specialized tools required for cleaning, segmenting, and e
 - **[Camel-tools](https://github.com/CAMeL-Lab/camel_tools)**: The most comprehensive toolkit for morphology, NER, and sentiment.
 - **[Farasa](https://farasa.qcri.org/)**: Industry standard for high-speed preprocessing in Qatar.
 - **[PyArabic](https://github.com/linuxscout/pyarabic)**: Essential for basic text manipulation and diacritic handling.
+- **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A powerful tool for building Egyptian ASR datasets from YouTube, featuring AI transcription (Gemini 2.0 Flash) and VAD filtering.
 
 ## 🧪 Evaluation Tools
 
