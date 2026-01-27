@@ -28,24 +28,36 @@ Our mission is to centralize high-quality, open-weight models and research bench
 
 The latest and most significant breakthroughs in the Arabic AI space:
 
-- 🗣️ **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: A specialized model built on the Chatterbox architecture, fine-tuned specifically for **Egyptian Arabic (Masri)**.
-- 📊 **[Silma Open-Source Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)**: A foundational benchmark prioritizing direct auditory assessment over standard metrics to capture the nuances of Arabic speech.
+- 🛠️ **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A powerful tool for building Egyptian ASR datasets from YouTube, featuring AI transcription (Gemini 2.0 Flash) and VAD filtering.
+- 🗣️ **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: A specialized model fine-tuned specifically for **Egyptian Arabic (Masri)** synthesis.
+- 📊 **[Silma Open-Source Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)**: A foundational benchmark for direct auditory assessment of Arabic TTS.
 
 ---
 
 ## 🗺️ Table of Contents
 
 - [🔬 Research Spotlight: NAMAA Space](#-research-spotlight-namaa-space)
-- [🗣️ Text-to-Speech (TTS)](#️-text-to-speech-tts)
-- [🎙️ Speech-to-Text (STT)](#️-speech-to-text-stt)
+- [🎙️ Arabic TTS Excellence](#-arabic-tts-excellence)
+- [🎙️ Speech-to-Text (STT)](#-speech-to-text-stt)
 - [🧠 Large Language Models (LLMs)](#-large-language-models-llms)
+- [🛠️ Tools & Utilities](#-tools--utilities)
 - [🌍 Dialectal AI & Community Hubs](#-dialectal-ai--community-hubs)
 - [📊 Datasets & Benchmarks](#-datasets--benchmarks)
-- [⚖️ Model Comparison Table](#-model-comparison-table)
-- [👥 Key Researchers](#-key-researchers--organizations)
-- [🤝Contributing](#-contributing)
+- [👥 Key Researchers & Organizations](#-key-researchers--organizations)
+- [🤝 Contributing](#-contributing)
 
 ---
+
+## 🔬 Research Spotlight: NAMAA Space
+*Network for Advancing Modern ArabicNLP & AI*
+
+| Model / Project | Type | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **AraModernBERT** | LLM (Encoder) | SOTA Arabic ModernBERT (Base V1.0), optimized for 8K context length. | [HuggingFace](https://huggingface.co/NAMAA-Space/AraModernBert-Base-V1.0) |
+| **Qari-OCR v0.3** | Vision/OCR | High-fidelity Arabic OCR based on Qwen2-VL, supports diacritics & complex layouts. | [HuggingFace](https://huggingface.co/NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct) |
+| **NAMAA-MT-Saudi** | Translation | Saudi Dialect (Najdi, Hijazi) to English translation system. | [HuggingFace](https://huggingface.co/NAMAA-Space/NAMAA-MT-Saudi2English) |
+| **Namaa-Reranker** | RAG Tool | High-performance reranker fine-tuned on mMARCO for Arabic IR. | [HuggingFace](https://huggingface.co/NAMAA-Space/Namaa-Reranker-v1) |
+
 
 ## 🎙️ Arabic TTS Excellence
 
@@ -83,6 +95,16 @@ These models represent the cutting edge of open-source Arabic speech synthesis.
 ### Llama-3-Arabic Variants
 - **[Arabic-llama3.1-16bit-FT](https://huggingface.co/Omartificial-Intelligence-Space/Arabic-llama3.1-16bit-FT)**: Fine-tuned on BigScience xP3.
 - **[HeshamHaroon/Arabic-llama3](https://huggingface.co/HeshamHaroon/Arabic-llama3)**: Fine-tuned from Meta Llama 3.
+
+---
+
+## 🛠️ Tools & Utilities
+
+Specialized tools for Arabic data processing and model deployment.
+
+- **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A comprehensive web application for building Egyptian Arabic ASR datasets. Supports channel monitoring, audio extraction via `pytubefix`, and Google Gemini 2.0 Flash transcription.
+- **[Camel-tools](https://github.com/CAMeL-Lab/camel_tools)**: Essential suite for Arabic NLP (morphology, NER, sentiment).
+- **[PyArabic](https://github.com/linuxscout/pyarabic)**: Library for Arabic text manipulation and normalization.
 
 ---
 
