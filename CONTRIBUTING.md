@@ -7,7 +7,7 @@ Thank you for your interest in contributing to the **Awesome Arabic AI** project
 To ensure consistency and quality, please follow these rules when submitting a pull request:
 
 ### 1. Relevance
-All submissions must be directly relevant to Arabic Large Language Models (LLMs), Speech-to-Text (STT), Text-to-Speech (TTS), or related linguistic tools/data.
+All submissions must be directly relevant to Arabic Large Language Models (LLMs), Speech-to-Text (STT), Text-to-Speech (TTS), Research Papers, or related linguistic tools/data.
 
 ### 2. Format & Style
 - **Standardized Metadata**: Every entry must include:
@@ -31,6 +31,7 @@ If you are contributing large amounts of data or new categories, please use the 
 - `speech/`: ASR, TTS, and Diacritization resources.
 - `data/`: Datasets, Corpora, and Benchmarking metadata.
 - `tools/`: Preprocessing and evaluation scripts.
+- `papers/`: Research papers and publications in the Arabic AI domain.
 
 ## ⚖️ Licensing
 We prioritize **open-weight** and **open-source** models.

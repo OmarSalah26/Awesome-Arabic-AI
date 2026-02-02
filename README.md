@@ -44,6 +44,7 @@ The latest and most significant breakthroughs in the Arabic AI space:
 - [🛠️ Tools & Utilities](#-tools--utilities)
 - [🌍 Dialectal AI & Community Hubs](#-dialectal-ai--community-hubs)
 - [📊 Datasets & Benchmarks](#-datasets--benchmarks)
+- [📄 Research & Publications](#-research--publications)
 - [👥 Key Researchers & Organizations](#-key-researchers--organizations)
 - [🤝 Contributing](#-contributing)
 
@@ -143,6 +144,12 @@ Arabic is not just MSA. This section collects resources for specific regional di
 - **[Habibi Dataset](https://huggingface.co/datasets/SWivid/Habibi)**: Critical high-quality audio dataset.
 - **[Common Voice (Arabic)](https://commonvoice.mozilla.org/ar)**: Massive community-driven speech dataset.
 - **[SAFIR Leaderboard](https://huggingface.co/namaa-space)**: Evaluation specifically for Saudi Arabic tasks.
+
+---
+
+## 📄 Research & Publications
+
+- **[Baseer: Arabic Document OCR (Sep 2025)](https://arxiv.org/abs/2509.18174)**: Vision-Language model for high-fidelity OCR, achieving SOTA 0.25 WER.
 
 ---
 
