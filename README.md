@@ -3,6 +3,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="Awesome Arabic AI Logo" width="200" height="200">
   <h1>Awesome Arabic AI</h1>
+  <h3>  هنا يلتقي الذكاء الاصطناعي بجمال لغتنا لغة الضاد  </h3>
   <p><b>Democratizing Arabic AI by centralizing the world's best open-source LLMs, Speech models, and Datasets.</b></p>
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
