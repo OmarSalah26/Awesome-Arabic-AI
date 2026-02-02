@@ -34,5 +34,11 @@ This document provides a detailed breakdown of the models and resources featured
 ### Datasets & Corpora
 - Raw text, transcribed speech, and parallel data.
 
+
 ### Benchmarks & Leaderboards
 - Evaluation frameworks for language and speech quality.
+
+## 📄 Research & Publications
+
+### Core Research Papers
+- Research papers and publications in the Arabic AI domainI
