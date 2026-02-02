@@ -38,6 +38,7 @@ The latest and most significant breakthroughs in the Arabic AI space:
 
 - [🔬 Research Spotlight: NAMAA Space](#-research-spotlight-namaa-space)
 - [🎙️ Arabic TTS Excellence](#-arabic-tts-excellence)
+- [💰 Commercial Arabic Voice](#-commercial-arabic-voice)
 - [🎙️ Speech-to-Text (STT)](#-speech-to-text-stt)
 - [🧠 Large Language Models (LLMs)](#-large-language-models-llms)
 - [🛠️ Tools & Utilities](#-tools--utilities)
@@ -72,6 +73,17 @@ These models represent the cutting edge of open-source Arabic speech synthesis.
 | **Habibi-TTS** | SWivid | [Model/Dataset](https://huggingface.co/datasets/SWivid/Habibi) | High-quality Arabic speech dataset & model |
 | **Hamsa** | Silma AI | [Org](https://huggingface.co/silma-ai) | High-end Arabic TTS |
 | **XTTS-v2 (Arabic)** | Coqui/Community | [Link](https://huggingface.co/lucasnewman/xtts-v2-arabic) | Multi-lingual support with Arabic fine-tuning |
+
+
+## 💰 Commercial Arabic Voice
+
+Premium Arabic voice synthesis and AI services.
+
+| Service Name | Developer | Links | Notes |
+| :--- | :--- | :--- | :--- |
+| **Hamsa** | Hamsa AI | [Try it out](https://media.tryhamsa.com) | Commercial Arabic voice platform |
+| **SILMA TTS Voice** | Silma AI | [App](https://app.silma.ai) | Professional TTS services |
+
 
 
 
