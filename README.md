@@ -29,6 +29,8 @@ The latest and most significant breakthroughs in the Arabic AI space:
 - 🛠️ **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A powerful tool for building Egyptian ASR datasets from YouTube, featuring AI transcription (Gemini 2.0 Flash) and VAD filtering.
 - 🗣️ **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: A specialized model fine-tuned specifically for **Egyptian Arabic (Masri)** synthesis.
 - 📊 **[Silma Open-Source Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)**: A foundational benchmark for direct auditory assessment of Arabic TTS.
+- 💰 **[Hamsa](https://media.tryhamsa.com)**: Premium commercial Arabic voice synthesis platform.
+- 💰 **[SILMA TTS Voice](https://app.silma.ai)**: Professional Arabic text-to-speech services.
 
 ---
 
