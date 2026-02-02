@@ -15,13 +15,10 @@
 
 ## 📖 Introduction
 
-**Awesome-Arabic-AI** is the definitive hub for open-source advancements in Arabic Large Language Models (LLMs), Text-to-Speech (TTS), and Speech-to-Text (STT) technologies. Arabic, spoken by over 400 million people, presents unique computational challenges—from its complex morphology and lack of diacritics to the profound state of **diglossia** (the gap between MSA and spoken dialects). 
+**Awesome-Arabic-AI** is the definitive hub for advancements in Arabic Large Language Models (LLMs), Text-to-Speech (TTS), and Speech-to-Text (STT) technologies. Arabic, spoken by over 400 million people, presents unique computational challenges—from its complex morphology and lack of diacritics to the profound state of **diglossia** (the gap between MSA and spoken dialects). 
 
 Our mission is to centralize high-quality, open-weight models and research benchmarks to provide a strategic foundation for developers navigating the burgeoning Arabic AI ecosystem. We aim to foster a community where state-of-the-art speech and language technologies are accessible and optimized for the linguistic richness of the Arab world.
 
-> [!TIP]
-> **Why Arabic AI?**
-> Developing for Arabic requires specialized tokenizers, diacritization-aware pipelines, and multi-dialectal datasets. This repository highlights the tools that solve these specific hurdles.
 
 ---
 
@@ -72,7 +69,7 @@ These models represent the cutting edge of open-source Arabic speech synthesis.
 | **Arabic-TTS-Spark** | Ibrahim Salah | [Space](https://huggingface.co/spaces/IbrahimSalah/Arabic-TTS-Spark) | Spark-based Arabic synthesis |
 | **Chatterbox-Egyptian** | oddadmix | [Model](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) / [Demo](https://huggingface.co/spaces/oddadmix/Chatterbox-Egyptian) | Focus on Egyptian Dialect |
 | **Habibi-TTS** | SWivid | [Model/Dataset](https://huggingface.co/datasets/SWivid/Habibi) | High-quality Arabic speech dataset & model |
-| **Hamsa** | Silma AI | [Org](https://huggingface.co/silma-ai) | High-end Arabic TTS |
+| **Hamsa** | Hamsa AI | [Org]([https://huggingface.co/silma-ai](https://media.tryhamsa.com)) | High-end Arabic TTS |
 | **XTTS-v2 (Arabic)** | Coqui/Community | [Link](https://huggingface.co/lucasnewman/xtts-v2-arabic) | Multi-lingual support with Arabic fine-tuning |
 
 
@@ -152,9 +149,10 @@ Arabic is not just MSA. This section collects resources for specific regional di
 
 ## 👥 Key Researchers & Organizations
 
-- **[Ibrahim Salah](https://huggingface.co/IbrahimSalah)**: Specialist in F5 and Spark TTS.
+
 - **[NAMAA Space](https://www.namaa.space/research)**: Institutional-grade research in OCR, LLMs, and Dialects.
 - **[oddadmix](https://huggingface.co/oddadmix)**: Focus on Dialectal/Egyptian AI.
+- **[Ibrahim Salah](https://huggingface.co/IbrahimSalah)**: Specialist in F5 and Spark TTS.
 - **[SWivid](https://huggingface.co/SWivid)**: Creators of the Habibi dataset.
 - **[Silma AI](https://huggingface.co/silma-ai)**: Leading Arabic Benchmarks and high-end models.
 - **[TII (Technology Innovation Institute)](https://huggingface.co/tiiuae)**: Developers of Falcon and primary Arabic leaderboards.
