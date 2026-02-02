@@ -80,7 +80,7 @@ Premium Arabic voice synthesis and AI services.
 | Service Name | Developer | Links | Notes |
 | :--- | :--- | :--- | :--- |
 | **Hamsa** | Hamsa AI | [Try it out](https://media.tryhamsa.com) | Commercial Arabic voice platform |
-| **SILMA TTS Voice** | Silma AI | [App](https://app.silma.ai) | Professional TTS services |
+| **SILMA TTS Voice** | Silma AI | [App](https://app.silma.ai) | Provide a Commercial Arabic voice|
 
 
 
