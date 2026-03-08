@@ -27,11 +27,11 @@ Our mission is to centralize high-quality, open-weight models and research bench
 The latest and most significant breakthroughs in the Arabic AI space:
 
 - 🗣️ **[Lahgtna](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: A state-of-the-art Arabic Dialect TTS model supporting Egyptian, Saudi, Moroccan, and Iraqi dialects with full diacritics support.
+- 🧠 **[Karnak LLM](https://huggingface.co/Applied-Innovation-Center/Karnak)**: A 40B depth-extended Arabic-English model optimized for reasoning and long-context (20K tokens).
 - 🛠️ **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A powerful tool for building Egyptian ASR datasets from YouTube, featuring AI transcription (Gemini 2.0 Flash) and VAD filtering.
-- 🗣️ **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: A specialized model fine-tuned specifically for **Egyptian Arabic (Masri)** synthesis.
-- 📊 **[Silma Open-Source Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)**: A foundational benchmark for direct auditory assessment of Arabic TTS.
-- 💰 **[Hamsa](https://media.tryhamsa.com)**: Premium commercial Arabic voice synthesis platform.
-- 💰 **[SILMA TTS Voice](https://app.silma.ai)**: Professional Arabic text-to-speech services.
+
+
+
 
 ---
 
@@ -107,6 +107,8 @@ Premium Arabic voice synthesis and AI services.
 - **[Jais (G42)](https://huggingface.co/inceptionai/jais-30b-chat)**: The leading Arabic-centric foundational model.
 - **[Falcon 3 (TII)](https://huggingface.co/tiiuae/falcon-3-7b)**: High-performance multilingual models.
 - **[Allam (KSAA)](https://huggingface.co/KSAA)**: Saudi  model.
+- **[Karnak (AIC)](https://huggingface.co/Applied-Innovation-Center/Karnak)**: 40B depth-extended model built on Qwen3, featuring an Arabic-optimized tokenizer and 20K context window.
+
 
 ### Llama-3-Arabic Variants
 - **[Arabic-llama3.1-16bit-FT](https://huggingface.co/Omartificial-Intelligence-Space/Arabic-llama3.1-16bit-FT)**: Fine-tuned on BigScience xP3.
@@ -170,6 +172,8 @@ Arabic is not just MSA. This section collects resources for specific regional di
 - **[Silma AI](https://huggingface.co/silma-ai)**: Leading Arabic Benchmarks and high-end models.
 - **[Intella](https://intella.me/en)**: Developers of Ziila, focus on Arabic native digital humans and STT.
 - **[TII (Technology Innovation Institute)](https://huggingface.co/tiiuae)**: Developers of Falcon and primary Arabic leaderboards.
+- **[Applied Innovation Center (AIC)](https://huggingface.co/Applied-Innovation-Center)**: Developers of Karnak LLM, focused on depth-extended models for Arabic.
+
 
 ---
 
