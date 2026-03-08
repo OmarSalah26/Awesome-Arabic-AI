@@ -26,6 +26,7 @@ Our mission is to centralize high-quality, open-weight models and research bench
 
 The latest and most significant breakthroughs in the Arabic AI space:
 
+- 🗣️ **[Lahgtna](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: A state-of-the-art Arabic Dialect TTS model supporting Egyptian, Saudi, Moroccan, and Iraqi dialects with full diacritics support.
 - 🛠️ **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A powerful tool for building Egyptian ASR datasets from YouTube, featuring AI transcription (Gemini 2.0 Flash) and VAD filtering.
 - 🗣️ **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: A specialized model fine-tuned specifically for **Egyptian Arabic (Masri)** synthesis.
 - 📊 **[Silma Open-Source Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)**: A foundational benchmark for direct auditory assessment of Arabic TTS.
@@ -68,6 +69,7 @@ These models represent the cutting edge of open-source Arabic speech synthesis.
 
 | Model Name | Developer/Author | Links | Notes |
 | :--- | :--- | :--- | :--- |
+| **Lahgtna** | oddadmix | [Space](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo) | Multi-dialect TTS (EG, SA, MA, IQ) with Tashkeel support |
 | **Arabic-F5-TTS-v2** | Ibrahim Salah | [Model](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) | Advanced F5-based Arabic TTS |
 | **Arabic-TTS-Spark** | Ibrahim Salah | [Space](https://huggingface.co/spaces/IbrahimSalah/Arabic-TTS-Spark) | Spark-based Arabic synthesis |
 | **Chatterbox-Egyptian** | oddadmix | [Model](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) / [Demo](https://huggingface.co/spaces/oddadmix/Chatterbox-Egyptian) | Focus on Egyptian Dialect |
@@ -81,6 +83,7 @@ Premium Arabic voice synthesis and AI services.
 
 | Service Name | Developer | Links | Notes |
 | :--- | :--- | :--- | :--- |
+| **Ziila** | Intella | [Link](https://intella.me/en) | Arabic native digital human for fluid customer experiences |
 | **Hamsa** | Hamsa AI | [Try it out](https://media.tryhamsa.com) | Commercial Arabic voice platform |
 | **SILMA TTS Voice** | Silma AI | [App](https://app.silma.ai) | Provide a Commercial Arabic voice|
 
@@ -126,10 +129,12 @@ Specialized tools for Arabic data processing and model deployment.
 Arabic is not just MSA. This section collects resources for specific regional dialects.
 
 ### 🇪🇬 Egyptian (Masri)
+- **[Lahgtna (Egyptian)](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: Multi-dialect model with dedicated support for Egyptian Arabic.
 - **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: State-of-the-art synthesis for Egyptian colloquialisms.
 - **[EGTTS-v0.1](https://huggingface.co/models?search=EGTTS)**: Community effort for Egyptian dialect speech.
 
 ### 🇸🇦 Saudi
+- **[Lahgtna (Saudi)](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: High-quality Saudi dialect synthesis with full diacritics.
 - **[Saudi Dialect Hub (NAMAA)](https://huggingface.co/namaa-space)**: A unified hub for Saudi datasets and the SAFIR Leaderboard.
 - **[NAMAA-MT-Saudi](https://huggingface.co/NAMAA-Space/NAMAA-MT-Saudi2English)**: Translation systems for Najdi and Hijazi.
 - **[SaudiSpell-AraT5](https://huggingface.co/NAMAA-Space/SaudiSpell-AraT5)**: SOTA sequence-to-sequence spelling correction for Saudi dialects.
@@ -163,6 +168,7 @@ Arabic is not just MSA. This section collects resources for specific regional di
 - **[Ibrahim Salah](https://huggingface.co/IbrahimSalah)**: Specialist in F5 and Spark TTS.
 - **[SWivid](https://huggingface.co/SWivid)**: Creators of the Habibi dataset.
 - **[Silma AI](https://huggingface.co/silma-ai)**: Leading Arabic Benchmarks and high-end models.
+- **[Intella](https://intella.me/en)**: Developers of Ziila, focus on Arabic native digital humans and STT.
 - **[TII (Technology Innovation Institute)](https://huggingface.co/tiiuae)**: Developers of Falcon and primary Arabic leaderboards.
 
 ---
