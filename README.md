@@ -27,7 +27,7 @@ Our mission is to centralize high-quality, open-weight models and research bench
 The latest and most significant breakthroughs in the Arabic AI space:
 
 - 🗣️ **[Lahgtna](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: A state-of-the-art Arabic Dialect TTS model supporting Egyptian, Saudi, Moroccan, and Iraqi dialects with full diacritics support.
-- 🧠 **[Karnak LLM](https://huggingface.co/Applied-Innovation-Center/Karnak)**: A 40B depth-extended Arabic-English model optimized for reasoning and long-context (20K tokens).
+- 🧠 **[Karnak LLM](https://huggingface.co/Applied-Innovation-Center/Karnak)**: A 40B depth-extended Arabic-English model optimized for reasoning and long-context (20K tokens). It is built on top of Qwen3-30B-A3B.
 - 🛠️ **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A powerful tool for building Egyptian ASR datasets from YouTube, featuring AI transcription (Gemini 2.0 Flash) and VAD filtering.
 
 
@@ -107,7 +107,7 @@ Premium Arabic voice synthesis and AI services.
 - **[Jais (G42)](https://huggingface.co/inceptionai/jais-30b-chat)**: The leading Arabic-centric foundational model.
 - **[Falcon 3 (TII)](https://huggingface.co/tiiuae/falcon-3-7b)**: High-performance multilingual models.
 - **[Allam (KSAA)](https://huggingface.co/KSAA)**: Saudi  model.
-- **[Karnak (AIC)](https://huggingface.co/Applied-Innovation-Center/Karnak)**: 40B depth-extended model built on Qwen3, featuring an Arabic-optimized tokenizer and 20K context window.
+- **[Karnak (AIC)](https://huggingface.co/Applied-Innovation-Center/Karnak)**: 40B depth-extended model built on Qwen3, featuring an Arabic-optimized tokenizer and 20K context window. It is built on top of Qwen3-30B-A3B.
 
 
 ### Llama-3-Arabic Variants
