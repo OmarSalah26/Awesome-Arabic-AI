@@ -26,6 +26,7 @@ Our mission is to centralize high-quality, open-weight models and research bench
 
 The latest and most significant breakthroughs in the Arabic AI space:
 
+- 🗣️ **[SILMA TTS v1](https://huggingface.co/silma-ai/silma-tts)**: A lightweight (150M) bilingual Arabic-English model with ultra-low latency and instant voice cloning. [Demo](https://huggingface.co/spaces/silma-ai/silma-tts-v1-demo)
 - 🗣️ **[Lahgtna](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: A state-of-the-art Arabic Dialect TTS model supporting Egyptian, Saudi, Moroccan, and Iraqi dialects with full diacritics support.
 - 🧠 **[Karnak LLM](https://huggingface.co/Applied-Innovation-Center/Karnak)**: A 40B depth-extended Arabic-English model optimized for reasoning and long-context (20K tokens). It is built on top of Qwen3-30B-A3B.
 - 🛠️ **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A powerful tool for building Egyptian ASR datasets from YouTube, featuring AI transcription (Gemini 2.0 Flash) and VAD filtering.
@@ -69,6 +70,7 @@ These models represent the cutting edge of open-source Arabic speech synthesis.
 
 | Model Name | Developer/Author | Links | Notes |
 | :--- | :--- | :--- | :--- |
+| **SILMA TTS v1** | Silma AI | [Model](https://huggingface.co/silma-ai/silma-tts) / [Demo](https://huggingface.co/spaces/silma-ai/silma-tts-v1-demo) | Lightweight (150M) bilingual (AR/EN) model with instant voice cloning |
 | **Lahgtna** | oddadmix | [Space](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo) / [Model](https://huggingface.co/oddadmix/lahgtna-chatterbox-v0) | Multi-dialect TTS (EG, SA, MA, IQ) with Tashkeel support |
 | **Arabic-F5-TTS-v2** | Ibrahim Salah | [Model](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) | Advanced F5-based Arabic TTS |
 | **Arabic-TTS-Spark** | Ibrahim Salah | [Space](https://huggingface.co/spaces/IbrahimSalah/Arabic-TTS-Spark) | Spark-based Arabic synthesis |
