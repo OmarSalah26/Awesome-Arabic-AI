@@ -69,12 +69,18 @@ These models represent the cutting edge of open-source Arabic speech synthesis.
 
 | Model Name | Developer/Author | Links | Notes |
 | :--- | :--- | :--- | :--- |
-| **Lahgtna** | oddadmix | [Space](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo) | Multi-dialect TTS (EG, SA, MA, IQ) with Tashkeel support |
+| **Lahgtna** | oddadmix | [Space](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo) / [Model](https://huggingface.co/oddadmix/lahgtna-chatterbox-v0) | Multi-dialect TTS (EG, SA, MA, IQ) with Tashkeel support |
 | **Arabic-F5-TTS-v2** | Ibrahim Salah | [Model](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) | Advanced F5-based Arabic TTS |
 | **Arabic-TTS-Spark** | Ibrahim Salah | [Space](https://huggingface.co/spaces/IbrahimSalah/Arabic-TTS-Spark) | Spark-based Arabic synthesis |
-| **Chatterbox-Egyptian** | oddadmix | [Model](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) / [Demo](https://huggingface.co/spaces/oddadmix/Chatterbox-Egyptian) | Focus on Egyptian Dialect |
+| **Fish Speech S2 Pro** | Fish Audio | [Model](https://huggingface.co/fishaudio/s2-pro) | SOTA multi-lingual speech model |
+| **MOSS-TTS** | OpenMOSS-Team | [Model](https://huggingface.co/OpenMOSS-Team/MOSS-TTS) | Open-source multi-lingual TTS |
+| **KaniTTS Arabic** | nineninesix | [Model](https://huggingface.co/nineninesix/kani-tts-400m-ar) | 400M parameter Arabic specialized TTS |
+| **Multilingual Chatterbox** | Resemble AI | [Model](https://huggingface.co/ResembleAI/chatterbox) | Resemble AI multilingual foundation model |
+| **OuteTTS 1.0** | OuteAI | [Model](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) | Llama-based 1B parameter TTS |
+| **Fish Speech S1-mini** | Fish Audio | [Model](https://huggingface.co/fishaudio/s1-mini) | Lightweight high-quality speech model |
 | **Habibi-TTS** | SWivid | [Model/Dataset](https://huggingface.co/datasets/SWivid/Habibi) | High-quality Arabic speech dataset & model |
-| **XTTS-v2 (Arabic)** | Coqui/Community | [Link](https://huggingface.co/lucasnewman/xtts-v2-arabic) | Multi-lingual support with Arabic fine-tuning |
+| **SpeechT5 Arabic** | MBZUAI | [Model](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) | MBZUAI fine-tuned SpeechT5 for Arabic |
+| **XTTS-v2 (Arabic)** | Coqui/Community | [Link](https://huggingface.co/tts-hub/XTTS-v2) | Multi-lingual support with Arabic fine-tuning |
 
 
 ## 💰 Commercial Arabic Voice
