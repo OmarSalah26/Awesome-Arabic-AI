@@ -155,7 +155,7 @@ Arabic is not just MSA. This section collects resources for specific regional di
 ## 📊 Datasets & Benchmarks
 
 - **[Silma TTS Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark)**: The standard for open-source Arabic TTS evaluation.
-- **[OALL (Open Arabic LLM Leaderboard)](https://huggingface.co/spaces/TIIUAE/open-arabic-llm-leaderboard)**: The standard for LLM evaluation.
+- **[OALL (Open Arabic LLM Leaderboard)](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard)**: The standard for LLM evaluation.
 - **[Habibi Dataset](https://huggingface.co/datasets/SWivid/Habibi)**: Critical high-quality audio dataset.
 - **[Common Voice (Arabic)](https://commonvoice.mozilla.org/ar)**: Massive community-driven speech dataset.
 - **[SAFIR Leaderboard](https://huggingface.co/namaa-space)**: Evaluation specifically for Saudi Arabic tasks.
