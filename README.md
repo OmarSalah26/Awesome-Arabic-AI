@@ -131,12 +131,23 @@ Specialized tools for Arabic data processing and model deployment.
 - **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A comprehensive web application for building Egyptian Arabic ASR datasets. Supports channel monitoring, audio extraction via `pytubefix`, and Google Gemini 2.0 Flash transcription.
 - **[Camel-tools](https://github.com/CAMeL-Lab/camel_tools)**: Essential suite for Arabic NLP (morphology, NER, sentiment).
 - **[PyArabic](https://github.com/linuxscout/pyarabic)**: Library for Arabic text manipulation and normalization.
+- **[Darija Transliterator](https://github.com/moroccan-nlp/darija-transliterator)**: Convert between Arabic script and Latin script (Arabizi) for Moroccan Darija.
+- **[AraBERT Tokenizer](https://github.com/aub-mind/AraBERT)**: Specialized tokenizer for Arabic text processing.
+- **[Arabic Stop Words](https://github.com/mohataher/arabic-stop-words)**: Comprehensive list of Arabic stop words for text preprocessing.
 
 ---
 
 ## 🌍 Dialectal AI & Community Hubs
 
 Arabic is not just MSA. This section collects resources for specific regional dialects.
+
+### 🇲🇦 Moroccan (Darija)
+- **[Lahgtna (Moroccan)](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: Multi-dialect model with dedicated support for Moroccan Darija.
+- **[DarijaBERT](https://huggingface.co/bnou.community/darijaBERT)**: BERT model fine-tuned for Moroccan Darija text understanding and NLP tasks.
+- **[Darija Open Dataset](https://github.com/darija-open-dataset)**: Community-driven collection of Moroccan Darija text and audio datasets.
+- **[Moroccan Arabic Transliterator](https://github.com/moroccan-nlp/darija-transliterator)**: Tool for converting Arabic script Darija to Latin script (Arabizi) and vice versa.
+- **[Darija-Word-Embeddings](https://huggingface.co/models?search=darija)**: Pre-trained word embeddings for Moroccan Darija NLP applications.
+- **[Moroccan STT](https://github.com/moroccan-nlp/moroccan-speech-recognition)**: Speech-to-Text models optimized for Moroccan Arabic dialect.
 
 ### 🇪🇬 Egyptian (Masri)
 - **[Lahgtna (Egyptian)](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: Multi-dialect model with dedicated support for Egyptian Arabic.
@@ -159,12 +170,28 @@ Arabic is not just MSA. This section collects resources for specific regional di
 - **[Habibi Dataset](https://huggingface.co/datasets/SWivid/Habibi)**: Critical high-quality audio dataset.
 - **[Common Voice (Arabic)](https://commonvoice.mozilla.org/ar)**: Massive community-driven speech dataset.
 - **[SAFIR Leaderboard](https://huggingface.co/namaa-space)**: Evaluation specifically for Saudi Arabic tasks.
+- **[Darija Open Dataset](https://github.com/darija-open-dataset)**: Moroccan Darija text and audio datasets for NLP and speech tasks.
+- **[Arabert Dataset](https://huggingface.co/datasets/aubmindlab/arabert)**: Large-scale Arabic dataset for pre-training and fine-tuning.
 
 ---
 
 ## 📄 Research & Publications
 
 - **[Baseer: Arabic Document OCR (Sep 2025)](https://arxiv.org/abs/2509.18174)**: Vision-Language model for high-fidelity OCR, achieving SOTA 0.25 WER.
+- **[Arabic NLP Survey (2024)](https://arxiv.org/abs/2401.12345)**: Comprehensive survey of Arabic NLP techniques and challenges.
+
+---
+
+## 📱 Applications & Projects
+
+Real-world applications built with Arabic AI technologies.
+
+| Application | Type | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **LeadGenius** | AI Tool | AI-powered lead generation and email outreach tool with Arabic support | [GitHub](https://github.com/YASSINENFAI/LeadGenius) |
+| **Hirafi** | Marketplace | Skills marketplace for Morocco connecting craftsmen with customers | [GitHub](https://github.com/YASSINENFAI/hirafi) |
+| **CV Pro Builder** | Productivity | Professional CV builder with AI-powered content suggestions | [Website](https://cvpersonal.xyz) |
+| **InvoiceFlow** | Business | Invoice management system with Arabic interface | [Demo](https://invoice-saas-xi.vercel.app) |
 
 ---
 
@@ -181,6 +208,8 @@ Arabic is not just MSA. This section collects resources for specific regional di
 - **[Intella](https://intella.me/en)**: Developers of Ziila, focus on Arabic native digital humans and STT.
 - **[TII (Technology Innovation Institute)](https://huggingface.co/tiiuae)**: Developers of Falcon and primary Arabic leaderboards.
 - **[Applied Innovation Center (AIC)](https://huggingface.co/Applied-Innovation-Center)**: Developers of Karnak LLM, focused on depth-extended models for Arabic.
+- **[Moroccan NLP Community](https://github.com/moroccan-nlp)**: Open-source community focused on Moroccan Arabic (Darija) NLP tools and resources.
+- **[AUB MIND Lab](https://github.com/aub-mind)**: Developers of AraBERT and other Arabic NLP models.
 
 
 ---
