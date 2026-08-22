@@ -142,6 +142,7 @@ Arabic is not just MSA. This section collects resources for specific regional di
 - **[Lahgtna (Egyptian)](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: Multi-dialect model with dedicated support for Egyptian Arabic.
 - **[Chatterbox-Egyptian](https://huggingface.co/oddadmix/chatterbox-egyptian-v0)**: State-of-the-art synthesis for Egyptian colloquialisms.
 - **[EGTTS-v0.1](https://huggingface.co/models?search=EGTTS)**: Community effort for Egyptian dialect speech.
+- **[3ammiya](https://3ammiya.com/)**: Free searchable Egyptian Arabic dictionary with 6,000+ slang entries and Franco transliteration.
 
 ### 🇸🇦 Saudi
 - **[Lahgtna (Saudi)](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: High-quality Saudi dialect synthesis with full diacritics.
