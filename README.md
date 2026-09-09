@@ -131,6 +131,7 @@ Specialized tools for Arabic data processing and model deployment.
 - **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A comprehensive web application for building Egyptian Arabic ASR datasets. Supports channel monitoring, audio extraction via `pytubefix`, and Google Gemini 2.0 Flash transcription.
 - **[Camel-tools](https://github.com/CAMeL-Lab/camel_tools)**: Essential suite for Arabic NLP (morphology, NER, sentiment).
 - **[PyArabic](https://github.com/linuxscout/pyarabic)**: Library for Arabic text manipulation and normalization.
+- **[AgDex.ai](https://agdex.ai)**: Comprehensive open directory, benchmark, and discovery platform for AI Agents and developer tools, featuring full native Arabic & RTL localization and cost/performance evaluations.
 
 ---
 
