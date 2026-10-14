@@ -131,6 +131,7 @@ Specialized tools for Arabic data processing and model deployment.
 - **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A comprehensive web application for building Egyptian Arabic ASR datasets. Supports channel monitoring, audio extraction via `pytubefix`, and Google Gemini 2.0 Flash transcription.
 - **[Camel-tools](https://github.com/CAMeL-Lab/camel_tools)**: Essential suite for Arabic NLP (morphology, NER, sentiment).
 - **[PyArabic](https://github.com/linuxscout/pyarabic)**: Library for Arabic text manipulation and normalization.
+- **[Zekra (ذكرى)](https://github.com/fadymondy/zekra)**: Open-source long-term memory server for AI agents (Claude Code, Codex, Cursor, Gemini) over MCP. Arabic and English are indexed together, so recall works across both languages. AGPL-3.0, self-hostable. Developer: Fady Mondy.
 
 ---
 
