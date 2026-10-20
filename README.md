@@ -200,3 +200,7 @@ Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 <div align="center">
   <sub>Built with ❤️ for the Arabic AI Community.</sub>
 </div>
+
+## Tools & Utilities
+
+- **[toolcraftx](https://toolcraftx.com)** — Free Arabic-first AI toolbox (14 tools): SEO writer, blog outline, social caption, video script, product description, headline generator, and 8 more. Built natively for MSA Arabic with proper RTL, dialect, and cultural context handling — not a translation wrapper.
