@@ -94,6 +94,7 @@ Premium Arabic voice synthesis and AI services.
 | **Ziila** | Intella | [Link](https://intella.me/en) | Arabic native digital human for fluid customer experiences |
 | **Hamsa** | Hamsa AI | [Try it out](https://media.tryhamsa.com) | Commercial Arabic voice platform |
 | **SILMA TTS Voice** | Silma AI | [App](https://app.silma.ai) | Provide a Commercial Arabic voice|
+| **wowhook** | Creation over Consumption | [Try it out](https://wowhook.com) | Whisper-based speech-to-text for video links and uploaded files, with translation into Saudi colloquial Arabic or English |
 
 
 
