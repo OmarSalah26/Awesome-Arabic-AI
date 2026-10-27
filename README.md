@@ -29,6 +29,7 @@ The latest and most significant breakthroughs in the Arabic AI space:
 - 🗣️ **[SILMA TTS v1](https://huggingface.co/silma-ai/silma-tts)**: A lightweight (150M) bilingual Arabic-English model with ultra-low latency and instant voice cloning. [Demo](https://huggingface.co/spaces/silma-ai/silma-tts-v1-demo)
 - 🗣️ **[Lahgtna](https://huggingface.co/spaces/oddadmix/lahgtna-chatterbox-demo)**: A state-of-the-art Arabic Dialect TTS model supporting Egyptian, Saudi, Moroccan, and Iraqi dialects with full diacritics support.
 - 🧠 **[Karnak LLM](https://huggingface.co/Applied-Innovation-Center/Karnak)**: A 40B depth-extended Arabic-English model optimized for reasoning and long-context (20K tokens). It is built on top of Qwen3-30B-A3B.
+- 👁️ **[Nuqta Arabic OCR](https://huggingface.co/SalahALHaismawi/Nuqta-Arabic-OCR-4B)**: Open-weight Arabic document OCR by Salah AlHaismawi et al. in 4B and 0.8B sizes (Apache-2.0), built on Qwen3.5. The 4B scores CER 0.106 on KITAB-Bench and MARS 82.8 on Misraj-DocOCR. It copies the tashkeel printed on the page and does not add any, and reads tables, IDs and passports. [Demo](https://huggingface.co/spaces/SalahALHaismawi/Nuqta-Arabic-OCR) · [Python library](https://github.com/SalahAlHaismawi/nuqta-ocr)
 - 🛠️ **[YouTube Audio Extractor](https://github.com/Oddadmix/youtube-audio-extractor)**: A powerful tool for building Egyptian ASR datasets from YouTube, featuring AI transcription (Gemini 2.0 Flash) and VAD filtering.
 
 
