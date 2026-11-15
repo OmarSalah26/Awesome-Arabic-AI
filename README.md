@@ -159,6 +159,7 @@ Arabic is not just MSA. This section collects resources for specific regional di
 - **[Habibi Dataset](https://huggingface.co/datasets/SWivid/Habibi)**: Critical high-quality audio dataset.
 - **[Common Voice (Arabic)](https://commonvoice.mozilla.org/ar)**: Massive community-driven speech dataset.
 - **[SAFIR Leaderboard](https://huggingface.co/namaa-space)**: Evaluation specifically for Saudi Arabic tasks.
+- **[Gulf Text-to-SQL Bench](https://github.com/usmanbilytica/arabic-text-to-sql-bench)**: Text-to-SQL benchmark with the same questions in English, MSA and Gulf dialect, scored by SQL execution accuracy.
 
 ---
 
